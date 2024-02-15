@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10668609.svg)](https://doi.org/10.5281/zenodo.10668609)
 
 # Synthetic datasets for Ribeiro et al. (2023)
 
